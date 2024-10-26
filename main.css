@@ -1,0 +1,143 @@
+
+
+    .info{
+       font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+       color: rgb(61, 57, 57);
+       background-color: rgba(244, 237, 237, 0.597);
+       }
+
+   
+    body{
+        margin: 0%;
+        background-color:rgb(228, 248, 248);
+        
+    }
+.socail-media{
+    padding: 20PX;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    background-color: gray;
+    gap: 20px;
+    margin-top: 0px;
+    border: 5px solid #ddd;
+} 
+.logo{
+    width: 50px;
+    margin-right: auto;
+}
+
+.social{
+    margin-left: 10px;
+    color: azure;
+    font-style: oblique; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+    transition: all 700ms;
+
+}
+.social:hover{
+    color: rgb(140, 228, 248);
+    transition: all 700ms;
+}
+.prs-pic{
+    margin-top: 2px;
+    margin-left: 6px;
+    border: 3px solid gray;
+    padding: 15px;
+    width: 270px;
+    border-radius: 20%;
+  
+}
+.contaner{
+    display: flex;
+   
+}
+.left-column{
+   display: flex;
+   margin-right: 570px;
+   
+    
+}
+.right-column{
+    display: flex;
+    flex-direction: column;
+    margin-left: 100px;
+ 
+}
+.divider{
+    width: 20px;
+    background-color: gray;
+    
+    
+}
+.line{
+   height: 2px;
+   background-color: gray;
+   margin-top: 20px;
+}
+.line-contant{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.Ab{
+    width: 100%;
+    border-radius: 20px;
+    background-color: rgba(128, 128, 128, 0.849);
+}
+.Arabic{
+    height: 20px;
+    background-color: aqua;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+}
+.du{
+    width: 100%;
+    border-radius: 20px;
+    background-color: rgba(128, 128, 128, 0.849);
+
+}
+.Dutch{
+    height: 20px;
+    background-color: aqua;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+}
+.En{
+    width: 100%;
+    border-radius: 20px;
+    background-color: rgba(128, 128, 128, 0.849);
+}
+.English{
+    height: 20px;
+    background-color: aqua;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+}
+.highlight{
+display: inline-block;background-color: rgb(212, 212, 149);line-height: 1;
+}
+video{
+    background-color: rgba(6, 6, 88, 0.645);
+    width: 500px;
+    margin-left: 55%;
+    border: 3px solid gray;
+    padding: 9px;
+    margin-bottom: 50px;
+}
+
+
+
+
+
+    
+
+        
+   
+
+
+
